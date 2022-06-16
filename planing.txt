@@ -1,0 +1,11 @@
+landing {
+    - project info contact page other uni links
+    - go to login page
+}
+login page {
+    - to log in with (email/or code) and password
+    - to go to help page to (get/recover) login info
+}
+
+
+
